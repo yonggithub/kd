@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [文档格式说明](README.md)
 * [First Chapter](chapter1.md)
 
 ## 教师填表系统

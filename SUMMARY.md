@@ -22,7 +22,17 @@
     * 归档表单
   * 报表管理
   * [表单统计](jiao-shi-tian-biao-xi-tong/jiao-shi-tian-biao-xi-tong/biao-dan-tong-ji.md)
-    * 表单统计
+    * [表单统计](jiao-shi-tian-biao-xi-tong/jiao-shi-tian-biao-xi-tong/biao-dan-tong-ji/biao-dan-tong-ji.md)
     * 使用统计
-  * 系统管理
+  * [系统管理](jiao-shi-tian-biao-xi-tong/jiao-shi-tian-biao-xi-tong/xi-tong-guan-li.md)
+
+## 信息标准平台
+
+## 主数据平台
+
+## 质量平台
+
+## 开发者平台
+
+## 数据公示平台
 
